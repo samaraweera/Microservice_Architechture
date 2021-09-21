@@ -1,0 +1,6 @@
+com\rentcar\demomicroservices\rentcar\repository\StudentRepository.class
+com\rentcar\demomicroservices\rentcar\service\StudentService.class
+com\rentcar\demomicroservices\rentcar\RentcarApplication.class
+com\rentcar\demomicroservices\rentcar\controller\MainController.class
+com\rentcar\demomicroservices\rentcar\service\StudentServiceImpl.class
+com\rentcar\demomicroservices\rentcar\model\Student.class
